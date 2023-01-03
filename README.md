@@ -14,11 +14,16 @@
 
 
 
+
 <a id="org2a87731"></a>
 
 # About
 
 This repository is a Mini-Project which focuses on the Life Expectancy. The data set is obtained from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who). The data reflect every country's factors affecting life expectancy, from a period of 2000 to 2015. The original source of this data set is obtained from the data repository under World Health Organization (WHO). A video about this project is on [Youtube](https://www.youtube.com/watch?v=2V4sDu2Z7EA).  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2V4sDu2Z7EA-ID" target="_blank">
+<img src="http://img.youtube.com/vi/2V4sDu2Z7EA/0.jpg" alt="IMAGE ALT TEXT HERE" width="520" height="320" border="10" />
+</a>
 
 
 <a id="orgce798db"></a>
